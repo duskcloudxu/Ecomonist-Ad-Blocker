@@ -14,5 +14,7 @@ Please create an issue on [GIThub]() for any questions caused by this script sin
 
 ## 预览/preview
 
+![before](https://github.com/duskcloudxu/Ecomonist-Ad-Blocker/blob/master/imgs/before.png)
 
+![after](https://github.com/duskcloudxu/Ecomonist-Ad-Blocker/blob/master/imgs/after.png)
 
